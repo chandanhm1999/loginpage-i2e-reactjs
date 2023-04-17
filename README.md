@@ -5,6 +5,8 @@ Link: https://www.figma.com/file/iPtId0sF5Ow3gPPG2uCseL/UI-Design-Login?node-id=
 
 Hosted Link & its live: https://loginpage-i2e-reactjs.vercel.app/
 
+Github: https://github.com/chandanhm1999/loginpage-i2e-reactjs
+
 Functions:
 * Accept new user details fields to update and store the updated data in an encrypted format.
 
