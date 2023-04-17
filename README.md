@@ -13,3 +13,9 @@ Functions:
 * Accept new user details fields to update and store the updated data in an encrypted format.
 
 Preview: 
+Figma Design:
+![figma](https://user-images.githubusercontent.com/109410990/232479552-81348c7b-9e4a-43d6-9f9e-c8c9e2569e77.png)
+
+Login Page:
+
+![I2E](https://user-images.githubusercontent.com/109410990/232479661-d861469c-1d77-4199-ad57-bf1a11c6ff34.png)
